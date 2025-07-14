@@ -1,7 +1,6 @@
-# Project Title:
-COVID-19 Impact & Case Analysis Dashboard
+# COVID-19 Impact & Case Analysis Dashboard
 ________________________________________
-# Project Description:
+## Project Description:
 The COVID-19 Analysis Dashboard built in Power BI presents a visual summary of key pandemic metrics including confirmed cases, deaths, recoveries, and new cases across countries.
 
 This dashboard empowers users to:
@@ -50,4 +49,8 @@ Clustered Column Chart
 Total Deaths and Active cases by components
 Table with details
 Country-wise breakdown
+## Screenshot/Demos
+
+## How the Dashboard looks like. - ![Alt Text]()
+
 

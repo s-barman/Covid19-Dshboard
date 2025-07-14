@@ -51,6 +51,6 @@ Table with details
 Country-wise breakdown
 ## Screenshot/Demos
 
-## How the Dashboard looks like. - ![Alt Text]()
+## How the Dashboard looks like. - ![Alt Text](https://github.com/s-barman/Covid19-Dshboard/blob/main/Covid-19%20Dashboard%20Screenshot.png)
 
 

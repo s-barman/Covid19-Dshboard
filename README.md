@@ -15,7 +15,7 @@ ________________________________________
 ## Dashboard Objectives:
 •	Monitor total and daily COVID-19 cases, deaths, and recoveries.
 ________________________________________
-📊 Key Performance Indicators (KPIs):
+## Key Performance Indicators (KPIs):
 
 KPI Title	Description
 
@@ -31,7 +31,7 @@ Recovery Rate (%)	(Total Recovered / Total Confirmed) * 100
 
 New Cases	Line chart or column visual showing new confirmed cases per day.
 ________________________________________
-📊 Visuals Likely Used (Based on Standard COVID Dashboards):
+## Visuals Likely Used (Based on Standard COVID Dashboards):
 
 KPI Cards
 Total Cases, Deaths, Recoveries, Active Cases, Recovery Rate, New cases
